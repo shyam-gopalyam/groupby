@@ -8,3 +8,6 @@ Syntax: DataFrame.groupby(by=None, axis=0, level=None, as_index=True, sort=True,
 * Split a table into groups 
 * Apply some operations to each of those smaller tables
 * Combine the results
+
+
+Here i used "Drinks by Country" dataset, which was fetched directly from internet for making you understand
